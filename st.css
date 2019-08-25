@@ -5,7 +5,7 @@ body {
 #welcome-section {
     background-image: url("https://picsum.photos/id/119/3264/2176");
     background-size: cover;
-    text-align: cover;
+    text-align: center;
     max-width: 1500px;
     }
     header {
